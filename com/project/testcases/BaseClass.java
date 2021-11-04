@@ -49,7 +49,7 @@ public class BaseClass //extends TestListenerAdapter
 	     extent.attachReporter(htmlReporter);
 	     extent.setSystemInfo("Host Name", "SoftwareTesting");
 	     extent.setSystemInfo("Environment", "Automation Testing");
-	     extent.setSystemInfo("User Name", "Anusha M");
+	     extent.setSystemInfo("User Name", "Darshini T C");
 		 htmlReporter.config().setDocumentTitle("Automation Report");
 		 htmlReporter.config().setReportName("Selenium Regression Test Suite");
 		 htmlReporter.config().setTheme(Theme.STANDARD);		
